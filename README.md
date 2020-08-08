@@ -1,11 +1,11 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, I'm Vishaal -  [personal website][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## Welcome to my GitHub page!
+- 🎓 I am a rising sophomore studying Computer Science at the University of Pennsylvania
+- 📱 I am a passionate iOS app developer and am currently working on a iOS mental help application.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
