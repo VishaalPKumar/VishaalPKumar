@@ -1,7 +1,7 @@
 ### Hi there, I'm Vishaal  👋
 
 ## Welcome to my GitHub page!
-- 🎓 I am a rising sophomore studying Computer Science at the University of Pennsylvania
+- 🎓 I am a sophomore studying Computer Science at the University of Pennsylvania
 - 📱 I am a passionate iOS app developer and am currently working on a iOS mental help application.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
