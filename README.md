@@ -4,7 +4,7 @@
 - 🎓 I am a junior studying Networked & Social Systems Engineering at the University of Pennsylvania
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
