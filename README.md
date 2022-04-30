@@ -17,10 +17,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="JAVA" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="Swift" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ios.svg" />][website]
 [<img align="left" alt="Python" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />][website]
-[<img align="left" alt="Google Firebase" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/firebase.svg" />][website]
-[<img align="left" alt="Keras" width="26px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/keras.svg" />][website]
 
 
 
